@@ -36,7 +36,7 @@
 #endif // ifndef HAVE_LOCALE_H
 
 #ifdef HAVE_XLOCALE_H
-  #include <xlocale.h>
+//  #include <xlocale.h>
 #endif
 
 #if !defined(__ANDROID__)
